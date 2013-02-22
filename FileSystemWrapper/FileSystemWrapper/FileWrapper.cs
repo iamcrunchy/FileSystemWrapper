@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using FileSystemWrapper.Interfaces;
@@ -184,6 +185,16 @@ namespace FileSystemWrapper
         public FileAttributes GetFileAttributes(string path)
         {
             return File.GetAttributes(path);
+        }
+
+        /// <summary>
+        /// Gets the time last accessed.
+        /// </summary>
+        /// <param name="path">The path.</param>
+        /// <returns>DateTime.</returns>
+        public DateTime GetTimeLastAccessed(string path)
+        {
+            return File.GetLastAccessTime(path);
         }
 
         #endregion

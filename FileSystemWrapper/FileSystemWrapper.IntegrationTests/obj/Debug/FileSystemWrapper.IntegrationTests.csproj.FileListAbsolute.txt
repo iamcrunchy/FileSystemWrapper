@@ -7,3 +7,12 @@ C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystem
 C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\nunit.framework.xml
 C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.dll
 C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.pdb
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.IntegrationTests.dll
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.IntegrationTests.pdb
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.dll
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\nunit.framework.dll
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.pdb
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\nunit.framework.xml
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.dll
+C:\Git\FileSystemWrapper\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.pdb

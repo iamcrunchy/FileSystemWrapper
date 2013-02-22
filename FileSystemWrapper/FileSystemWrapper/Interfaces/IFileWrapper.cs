@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
@@ -18,5 +19,6 @@ namespace FileSystemWrapper.Interfaces
         bool DeleteFile(string path);
         bool MoveFile(string source, string destination);
         FileAttributes GetFileAttributes(string path);
+        DateTime GetTimeLastAccessed(string path);
     }
 }
