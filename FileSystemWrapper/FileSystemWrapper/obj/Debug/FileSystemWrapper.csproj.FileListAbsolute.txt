@@ -1,0 +1,7 @@
+C:\Dev\FileSystemWrapper\FileSystemWrapper\bin\Debug\FileSystemWrapper.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper\bin\Debug\FileSystemWrapper.pdb
+C:\Dev\FileSystemWrapper\FileSystemWrapper\obj\Debug\FileSystemWrapper.csprojResolveAssemblyReference.cache
+C:\Dev\FileSystemWrapper\FileSystemWrapper\obj\Debug\FileSystemWrapper.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper\obj\Debug\FileSystemWrapper.pdb
+C:\Dev\FileSystemWrapper\FileSystemWrapper\bin\Debug\nunit.framework.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper\bin\Debug\nunit.framework.xml

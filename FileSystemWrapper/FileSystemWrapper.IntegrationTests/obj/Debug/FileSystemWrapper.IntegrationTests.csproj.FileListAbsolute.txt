@@ -1,0 +1,9 @@
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.IntegrationTests.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.IntegrationTests.pdb
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\nunit.framework.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\FileSystemWrapper.pdb
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\bin\Debug\nunit.framework.xml
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.dll
+C:\Dev\FileSystemWrapper\FileSystemWrapper.IntegrationTests\obj\Debug\FileSystemWrapper.IntegrationTests.pdb
