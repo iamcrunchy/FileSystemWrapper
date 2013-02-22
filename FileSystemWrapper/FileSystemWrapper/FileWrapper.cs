@@ -53,6 +53,7 @@ namespace FileSystemWrapper
             return true;
         }
 
+
         #endregion
 
         #region Move
@@ -68,6 +69,7 @@ namespace FileSystemWrapper
             File.Move(source, destination);
             return true;
         }
+
 
         #endregion
 
@@ -164,10 +166,24 @@ namespace FileSystemWrapper
         /// </summary>
         /// <param name="path">The path.</param>
         /// <returns><c>true</c> if XXXX, <c>false</c> otherwise</returns>
-        public bool CreateFile(string path)
+        public bool FileCreate(string path)
         {
             File.Create(path);
             return true;
+        }
+
+        #endregion
+
+        #region Attributes
+
+        /// <summary>
+        /// Gets the file attributes.
+        /// </summary>
+        /// <param name="path">The path.</param>
+        /// <returns>FileAttributes.</returns>
+        public FileAttributes GetFileAttributes(string path)
+        {
+            return File.GetAttributes(path);
         }
 
         #endregion

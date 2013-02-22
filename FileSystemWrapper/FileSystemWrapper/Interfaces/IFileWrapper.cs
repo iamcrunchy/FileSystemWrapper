@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace FileSystemWrapper.Interfaces
@@ -16,5 +17,6 @@ namespace FileSystemWrapper.Interfaces
         bool FileCreate(string path);
         bool DeleteFile(string path);
         bool MoveFile(string source, string destination);
+        FileAttributes GetFileAttributes(string path);
     }
 }
